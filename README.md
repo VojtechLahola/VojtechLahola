@@ -20,18 +20,6 @@ I am a 2nd-year Software Engineering student at Tomas Bata University in Zlín, 
 - **OS & Environments:** Linux (Debian/Ubuntu), Windows, VMware
 - **Tools:** Git, Relational Databases
 
-## 🚀 Featured Projects
-
-### [VibeCheck](Link to your repository)
-*A C# background application designed to monitor and track daily AI API usage.*
-- **Tech:** C#, .NET
-- **Focus:** Background processing, API integration, and resource tracking.
-
-### [Project Name 2](Link to your repository)
-*Brief one-sentence description of what it does and the problem it solves.*
-- **Tech:** Python / SQL / Bash
-- **Focus:** Data processing, automation, or database management.
-
 ## 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
