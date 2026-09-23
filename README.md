@@ -11,8 +11,8 @@ Software Engineering student at Tomáš Baťa University in Zlín
 I like listening to music and fitness
 
 - 🎓 **Education:** 
-- Software Engineering at Tomas Bata University
-- Střední škola Baltaci
+  - Software Engineering at Tomas Bata University
+  - Střední škola Baltaci
 - 💡 **Focus:** Advanced C# development, web development
 
 ## 🛠️ Tech Stack
